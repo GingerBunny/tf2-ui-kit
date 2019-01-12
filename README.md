@@ -1,2 +1,5 @@
-# tf2-ui-kit
+# Team Fortress 2 UI Kit
 A very simple UI Kit for web development styled on the Team Fortress 2 UI
+## Getting Started
+Visit the website for more details
+Grab the fonts from the fonts folder and the teamfortress.css stylesheet and you're good to go!
